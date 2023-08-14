@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/89/cb/1a/89cb1a31c0b35cb5b3a5eaaf4a1b7a39.gif" alt="Banner Image" width="100%" />  
 <h1 align="center">Hi 👋, I'm br0skiDev.</h1>
-<h3 align="center">Fullstack Developer Student from Germany</h3>
+<h3 align="center">Fullstack Developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=br0skidev&label=Profile%20views&color=0e75b6&style=flat" alt="br0skidev" /> </p>
 
