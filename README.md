@@ -14,17 +14,17 @@
 
 - ⚡ Fun fact **I'm high rn.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/br0ski_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="br0ski_dev" height="30" width="40" /></a>
-<a href="https://instagram.com/br0ski_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="br0ski_dev" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Skills:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/br0ski_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="br0ski_dev" height="30" width="40" /></a>
+<a href="https://instagram.com/br0ski_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="br0ski_dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">✨ Support:</h3>
