@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/br0ski_dev" target="blank"><img src="https://img.shields.io/twitter/follow/br0ski_dev?logo=twitter&style=for-the-badge" alt="br0ski_dev" /></a> </p>
 
-- 📚 I’m currently learning **Python, JS/TS, Smart Contracts, WEB3**
+- 📚 I’m currently learning **Python, JS/TS, Smart Contracts, Web3**
 
 - 🌍 All of my projects will be available at **[https://www.morenorizvic.com](https://www.morenorizvic.com)**
 
