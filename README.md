@@ -8,7 +8,7 @@
 
 - 📚 I’m currently learning **Python, JS/TS, Smart Contracts, WEB3**
 
-- 🌍 All of my projects will be available at [https://www.morenorizvic.com](https://www.morenorizvic.com)
+- 🌍 All of my projects will be available at **[https://www.morenorizvic.com](https://www.morenorizvic.com)**
 
 - 📫 How to reach me **info@br0ski.com**
 
