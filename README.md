@@ -14,9 +14,9 @@
 
 - ⚡ Fun fact **I'm high rn.**
 
-<h3 align="left">Skills:</h3>
+
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,nextjs,react,tailwind,git,kubernetes,docker,vim,vscode,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind,python,vim,vscode,figma,photoshop,git,docker," />
 </p>
 
 <h3 align="left">Connect with me:</h3>
