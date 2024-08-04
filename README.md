@@ -16,7 +16,7 @@
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react,tailwind,python,fastapi,vim,vscode,figma,photoshop,git,docker," />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,python,fastapi,vscode,figma,photoshop,git,docker," />
 </p>
 
 <h3 align="left">👤 Connect with me:</h3>
