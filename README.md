@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/br0ski_dev" target="blank"><img src="https://img.shields.io/twitter/follow/br0ski_dev?logo=twitter&style=for-the-badge" alt="br0ski_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Python, JAVA, C++, JS and Frameworks**
+- 📚 I’m currently learning **Python, JS/TS, Smart Contracts, WEB3**
 
-- 👨‍💻 All of my projects are available at [https://www.portfolio.br0ski.com](https://www.portfolio.br0ski.com)
-
-- 📝 I regularly write articles on [https://www.br0ski.com](https://www.br0ski.com)
+- 🌍 All of my projects will be available at [https://www.morenorizvic.com](https://www.morenorizvic.com)
 
 - 📫 How to reach me **info@br0ski.com**
 
-- ⚡ Fun fact **I'm a student.**
+- ⚡ Fun fact **I'm high rn.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
