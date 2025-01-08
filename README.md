@@ -8,11 +8,10 @@
 
 - 📚 I’m currently learning **Python, JS/TS, Smart Contracts, Web3**
 
-- 🌍 All of my projects will be available at **[https://www.morenorizvic.com](https://www.morenorizvic.com)**
+- 🌍 All of my projects will be available at **[https://www.brsk-dev.com/portfolio](https://www.brsk-dev.com/portfolio)**
 
 - 📫 How to reach me **info@br0ski.com**
 
-- ⚡ Fun fact **I'm high rn.**
 
 
 <p align="center">
