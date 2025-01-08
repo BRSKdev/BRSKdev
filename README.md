@@ -1,10 +1,10 @@
 <img src="https://i.pinimg.com/originals/89/cb/1a/89cb1a31c0b35cb5b3a5eaaf4a1b7a39.gif" alt="Banner Image" width="100%" />  
-<h1 align="center">Hi 👋, I'm BR0SKI_DEV.</h1>
+<h1 align="center">Hi 👋, I'm BRSK!</h1>
 <h6 align="center">Fullstack Developer based in Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=br0skidev&label=Profile%20views&color=0e75b6&style=flat" alt="br0skidev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=br0skidev&label=Profile%20views&color=0e75b6&style=flat" alt="BRSKdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/br0ski_dev" target="blank"><img src="https://img.shields.io/twitter/follow/br0ski_dev?logo=twitter&style=for-the-badge" alt="br0ski_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BRSKdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/br0ski_dev?logo=twitter&style=for-the-badge" alt="br0ski_dev" /></a> </p>
 
 - 📚 I’m currently learning **Python, JS/TS, Smart Contracts, Web3**
 
