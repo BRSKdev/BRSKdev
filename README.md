@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=br0skidev&label=Profile%20views&color=0e75b6&style=flat" alt="BRSKdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/BRSKdeveloper" target="_blank"><img src="https://img.shields.io/twitter/follow/br0ski_dev?logo=twitter&style=for-the-badge" alt="br0ski_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BRSKdeveloper" target="_blank"><img src="https://img.shields.io/twitter/follow/BRSKdeveloper?logo=twitter&style=for-the-badge" alt="BRSKdeveloper" /></a> </p>
 
 - 📚 I’m currently learning **Python, JS/TS, Smart Contracts, Web3**
 
@@ -20,8 +20,8 @@
 
 <h3 align="left">👤 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/br0ski_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="br0ski_dev" height="30" width="40" /></a>
-<a href="https://instagram.com/brsk_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="br0ski_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/BRSKdeveloper" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/brsk_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">✨ Support:</h3>
