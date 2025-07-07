@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/89/cb/1a/89cb1a31c0b35cb5b3a5eaaf4a1b7a39.gif" alt="Banner Image" width="100%" />  
 
-<h1 align="right">BRSK Developer</h1>
-<h6 align="right">Fullstack Developer based in Germany</h6>
+<img align="right" src="https://avatars.githubusercontent.com/u/107992081?v=4" width="68" height="68" />
+<h6 align="right">BRSK - Fullstack Developer</h6>
 
 <a href="https://twitter.com/BRSKdeveloper" target="_blank"><img align="right" src="https://img.shields.io/twitter/follow/BRSKdeveloper?logo=twitter&style=for-the-badge" alt="BRSKdeveloper" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=br0skidev&label=Profile%20views&color=0e75b6&style=flat" alt="BRSKdev" />
