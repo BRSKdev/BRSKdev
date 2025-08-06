@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/89/cb/1a/89cb1a31c0b35cb5b3a5eaaf4a1b7a39.gif" alt="Banner Image" width="100%" />  
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBrODZsenZ0eTFjZGlvbmx0dW5vNWFwYmU2bzhydmQ5MXBhN2F3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjZtC6RmvFolpDmEDt/giphy.gif" alt="Banner Image" width="100%" />  
 
 <img align="right" src="https://avatars.githubusercontent.com/u/107992081?v=4" width="68" height="68" />
 <h6 align="right">BRSK - Fullstack Developer</h6>
