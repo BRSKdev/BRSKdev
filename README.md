@@ -65,7 +65,7 @@ const info = {
 <summary>See all</summary>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,electron,python,java,cs,solidity,fastapi,nodejs,npm,pnpm,yarn,vite,express,cloudflare,aws,azure,vercel,supabase,firebase,prisma,mysql,postgresql,vscode,visualstudio,androidstudio,bash,git,postman,docker,figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,nextjs,electron,python,go,java,cs,solidity,fastapi,nodejs,npm,pnpm,yarn,vite,express,cloudflare,aws,azure,vercel,supabase,firebase,prisma,mysql,postgresql,mongodb,vscode,visualstudio,androidstudio,bash,git,postman,docker,figma,photoshop" />
 </p>
 </details>
 
