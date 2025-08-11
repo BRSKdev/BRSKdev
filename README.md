@@ -24,7 +24,7 @@ const info = {
     "Graphic Design"
   ],
   tech: {
-    domains: ["Fullstack Development", "Blockchain"]
+    domains: ["Fullstack Development", "Blockchain", "Cyber Security", "Malware Analysis/Development"]
     os: ["Windows", "macOS", "Linux"],
     proficientInShell: true,
   },
